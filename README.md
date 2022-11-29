@@ -1,8 +1,10 @@
 # Informe-tarea-3-
 UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE"
+
 NOMBRE: BLASS COLLAGUAZO
 
 OBJETIVOS
+
 1.1 Objetivo General:
 
 Entender de una manera mas concisa los conceptos básicos sobre los circuitos en serie y paralelo para la resolución de ejercicios del texto guía.
